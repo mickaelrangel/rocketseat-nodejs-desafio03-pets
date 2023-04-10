@@ -9,7 +9,7 @@ Find a Friend API
 - [] Deve ser possível filtrar pets por suas características;
 - [x] Deve ser possível visualizar detalhes de um pet para adoção
 - [x] Deve ser possível se cadastrar como uma ORG
-- [] Deve ser possível realizar login como uma ORG
+- [x] Deve ser possível realizar login como uma ORG
 
 ## RNs (Regras de negócio)
 
@@ -22,7 +22,7 @@ Find a Friend API
 
 ## RNFs (Requisitos não-funcionais)
 
-- [] A senha do usuário precisa estar criptografada;
-- [] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
+- [x] A senha do usuário precisa estar criptografada;
+- [x] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
 - [] Todas listas de dados precisam estar paginadas com 20 itens por página;
-- [] O usuário deve ser identificado por um JWT (JSON Web Token);
+- [x] O usuário deve ser identificado por um JWT (JSON Web Token);
